@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+	<book id="1">
+		<name>java教程</name>
+		<price>89</price>
+		<language>英文</language>
+		<year>2005</year>
+		<indexs>
+			<index>
+				<page>1</page>
+				<title>開始</title>
+			</index>
+		</indexs>
+	</book>
+	<book id="2">
+		<name>php教程</name>
+		<price>65</price>
+		<language>中文</language>
+		<year>2011</year>
+		<indexs>
+			<index>
+				<page>1</page>
+				<title>開始</title>
+			</index>
+			<index>
+				<page>2</page>
+				<title>22開始</title>
+			</index>
+		</indexs>
+	</book>
+	<book id="3">
+		<name>c語言</name>
+		<price>33</price>
+		<language>中文</language>
+		<year>2015</year>
+		<indexs>
+			<index>
+				<page>1</page>
+				<title>開始</title>
+			</index>
+		</indexs>
+	</book>
+</books>
