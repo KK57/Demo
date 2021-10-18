@@ -29,11 +29,11 @@ public class App
     public static void main( String[] args ) throws Exception
     {
         try {
-            
-            getNodeByClass();
-            getNodesByFullPath();                     
-            getSingleNodeByFullPath();
-        } catch (DocumentException e) {
+            System.out.println("hello");
+            // getNodeByClass();
+            // getNodesByFullPath();                     
+            // getSingleNodeByFullPath();
+        } catch (Exception e) {
             // TODO Auto-generated catch block
             e.printStackTrace();
         }
